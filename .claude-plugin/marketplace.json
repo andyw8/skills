@@ -1,14 +1,11 @@
 {
-  "marketplace": {
-    "name": "skills",
-    "displayName": "Skills Marketplace",
-    "description": "My personal collection of Claude Code plugins for various development tasks and workflows",
-    "repository": "andyw8/skills",
-    "plugins": []
+  "name": "skills",
+  "owner": {
+    "name": "Andy Waite"
   },
   "metadata": {
-    "version": "0.1.0",
-    "author": "Andy Waite",
-    "homepage": "https://github.com/andyw8/skills"
-  }
+    "description": "My personal collection of Claude Code plugins for various development tasks and workflows",
+    "version": "0.1.0"
+  },
+  "plugins": []
 }
