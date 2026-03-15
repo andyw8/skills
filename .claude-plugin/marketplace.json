@@ -1,14 +1,14 @@
 {
   "marketplace": {
-    "name": "agent-skills",
-    "displayName": "Agent Skills Marketplace",
-    "description": "A curated collection of Claude Code plugins for various development tasks and workflows",
-    "repository": "andyw8/agent-skills",
+    "name": "skills",
+    "displayName": "Skills Marketplace",
+    "description": "My personal collection of Claude Code plugins for various development tasks and workflows",
+    "repository": "andyw8/skills",
     "plugins": []
   },
   "metadata": {
     "version": "0.1.0",
-    "author": "Agent Skills Contributors",
-    "homepage": "https://github.com/andyw8/agent-skills"
+    "author": "Andy Waite",
+    "homepage": "https://github.com/andyw8/skills"
   }
 }
