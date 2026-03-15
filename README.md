@@ -27,11 +27,3 @@ claude plugin install <plugin-name>@skills
 ## Available Plugins
 
 *Coming soon*
-
-## Contributing
-
-Contributions welcome! Each plugin should follow the standard Claude Code plugin structure with its own `.claude-plugin/plugin.json`.
-
-## License
-
-Individual plugins may have their own licenses - check each plugin's directory for details.
