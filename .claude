@@ -1,5 +1,5 @@
 {
-  "marketplaces": [
-    "https://github.com/anthropics/skills"
-  ]
+  "enabledPlugins": {
+    "skill-creator@claude-plugins-official": true
+  }
 }
